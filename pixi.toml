@@ -16,8 +16,9 @@ pip = "*"
 hatch-vcs = "*"
 
 [feature.compile.dependencies]
+ecoscope-workflows-ext-kbopt ="0.0.7.*"
 ecoscope-workflows-ext-lion-guardians = "0.0.6.*"
-ecoscope-workflows-ext-mep = "0.0.18.*"
+ecoscope-workflows-ext-mep = "0.0.19.*"
 ecoscope-workflows-ext-mnc = "0.0.9.*"
 ecoscope-workflows-ext-ste = "0.0.20.*"
 ecoscope-workflows-ext-big-life = "0.0.11.*"
